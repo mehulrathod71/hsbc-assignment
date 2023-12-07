@@ -1,0 +1,1 @@
+This content printing from MyInputFile.txt file.
